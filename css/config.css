@@ -333,7 +333,7 @@ label {
 
 
 
-@media screen and (max-width:500px){
+@media screen and (max-width:600px){
     html,body{
         overflow: hidden;
     }
@@ -367,7 +367,7 @@ label {
     }
 
     .copyright{
-        margin-top: 500px;
+        margin-top: 450px;
         margin-left: -100px;
         width: 600px;
     }
@@ -378,6 +378,7 @@ label {
 
     .card1{
         margin-left: 0px;
+        height: 360px;
     }
     
 }
