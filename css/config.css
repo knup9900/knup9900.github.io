@@ -53,6 +53,7 @@ body {
 }
 
 #conteudo .img1{
+    height: 80%; 
     border-style: solid;
     border-color: azure;
     width: 150px;
