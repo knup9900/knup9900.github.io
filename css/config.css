@@ -98,7 +98,7 @@ body {
 }
 
 #conteudo .img2 h3{
-    margin-left: 26%;
+    margin-left: auto;
     color: azure;
 }
 
@@ -126,7 +126,7 @@ body {
 }
 
 #conteudo .img3 h3{
-    margin-left: 14%;
+    margin-left: auto;
     color: azure;
 }
 
@@ -155,7 +155,7 @@ body {
 }
 
 #conteudo .img4 h3{
-    margin-left: 30%;
+    margin-left: auto;
     color: azure;
 }
 
@@ -183,7 +183,7 @@ body {
 }
 
 #conteudo .img5 h3{
-    margin-left: 15%;
+    margin-left: auto;
     color: azure;
 }
 
