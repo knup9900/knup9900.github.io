@@ -24,14 +24,7 @@ body {
     height: 150px;
     overflow-y: auto;
     overflow-x: auto;
-}
-
-.pcima2{
-    position: relative;
-    width: 500px;
-    height: 150px;
-    overflow-y: auto;
-    overflow-x: auto;
+    margin-botton: 5%;
 }
 
 .meio{
